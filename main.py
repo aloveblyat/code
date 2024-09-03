@@ -1,3 +1,3 @@
-popka = 'dyrak'
+popka = 'хуй'
 
-print('popka')
+print(popka)
